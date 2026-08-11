@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-jbv82d.indocuan-pro.cfd/sitemap.xml
